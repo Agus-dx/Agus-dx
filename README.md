@@ -1,9 +1,9 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Input%20text&reversal=true&section=header&animation=fadeIn&textBg=false />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Hi,%20I'm%20Muzzo&reversal=true&section=header&animation=fadeIn&textBg=false />
 </div>
 
 <h3 align="center">
-  Hi, I'm Muzzo
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
